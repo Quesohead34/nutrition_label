@@ -68,3 +68,11 @@ p {
   font-size: 1.2em;
   margin-top: -7px;
 }
+
+.indent {
+  margin-left: 1em;
+}
+
+.dbl-indent {
+  margin-left: 2em;
+}
