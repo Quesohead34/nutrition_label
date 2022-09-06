@@ -40,3 +40,21 @@ p {
 .right {
   float: right;
 }
+
+.lg {
+  height: 10px;
+}
+
+.lg,
+.md {
+  background-color: black;
+  border: 0;
+}
+
+.md {
+  height: 5px;
+}
+
+.sm-text {
+  font-size: 0.85rem;
+}
